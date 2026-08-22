@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#root{
+    background-color: black;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.first{
+    background-color: white;
+    height:200px;
+    width: 300px;
+    text-align: center;
+}
+
+button{
+    height: 50px;
+    background-color: aqua;
+    margin-right: 10px;
+    font-size: 10px;
+    border: 3px solid ;
+    border-radius: 20%;
+    
+}
