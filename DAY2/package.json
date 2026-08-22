@@ -1,0 +1,17 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "RAUNAK",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dom": "^0.0.3",
+    "parcel": "^2.16.4",
+    "react": "^19.2.8"
+  }
+}
