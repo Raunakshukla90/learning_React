@@ -1,0 +1,54 @@
+ /*React-router*/
+ 
+ 
+ /*command 
+npm install parcel
+npm install react
+npm install react-dom
+
+
+
+*/
+
+
+/*
+React routin->
+<BrowserRouter>
+   yeha say routing start hoti hain ye batata hain ke kon sa page per jana hain
+   <Routes>
+            iskayh ander actual route ko batayngay
+
+            <Route>
+                   iskay andar do cheej dangay path and element or page name
+            </Route>
+        
+   </Routes>
+</BrowserRouter
+
+*/
+
+
+
+
+/*
+
+We can not use anchor tag because if we use then page always refers
+so we use Link tag
+
+<nav>
+
+   <Link to="/filename"></Link>
+
+</nav>   
+
+*/
+
+/*
+
+Outlet catch the path we give 
+
+and wright where we want to display
+because jaha per ham outlet likahyagy content vohe dispaly hoga us file ke jo outlet catch liya hin
+
+
+*/
