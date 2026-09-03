@@ -1,0 +1,14 @@
+/*
+about useParams
+use param it help us to select dynamic root 
+
+<Route path="/Github/:name" element={<Github></Github>}></Route> {/* "/Github/:name"  -> (:) it make dyanmic
+                
+                
+                
+                
+                           
+
+*/}
+
+
